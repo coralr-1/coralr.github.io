@@ -5,7 +5,7 @@ M.S. student in Artificial Intelligence and Robotics at ITMO University, St. Pet
 
 #### Contact
 
-Email: Y2399549081[at]outlook.com | 521031[at]niuitmo.ru
+Email: Y2399549081@outlook.com | 521031@niuitmo.ru
 
 #### Education
 M.S., Artificial Intelligence and Robotics, ITMO University, 2025—Present.\
