@@ -79,8 +79,3 @@
 - Q. Yang, J. Chen, **C. Yuan**, L. Na, W. Chen, J. Sun, and Y. Cai (2025). Spatial Distribution Prediction of Environmental Microbial Communities Based on Deep Learning Combined with MAXENT Model. In **Fourth International Conference on Electronics Technology and Artificial Intelligence (ETAI 2025)** (Vol. 13692, pp. 954-959). SPIE.
 
 - J. Cui, **C. Yuan**, and D. Zhang (2025). Multi-Scale Feature Aggregation with Hierarchical Semantics and Uncertainty Assessment: Enabling High-Accuracy Visual Retrieval. **The Journal of Supercomputing**, 81(10), 1141.
-
-
----
-
-**Note:** * indicates corresponding author. Papers are listed in reverse chronological order.
