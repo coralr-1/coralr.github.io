@@ -12,7 +12,7 @@
 
 
 
-### First/Co-first Author Publications/Advisor as First Author(Publications with Supervised Students)
+### First/Co-first Author Publications/Advisor as First Author
 
 #### 2025
 
