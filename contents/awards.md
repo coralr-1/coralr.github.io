@@ -1,13 +1,25 @@
+## HONORS AND AWARDS
 
-- Outstanding Graduate Award (CUMT), 2025.
+### Academic Recognition
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- **OpenDoors Olympiad Champion in Applied Mathematics**, Russia, 2024
+  - Gold Medal (1st Place) in Applied Mathematics Track
+  - National-level academic competition for international students
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+### Scholarships
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- **Full Tuition Scholarship**, ITMO University, 2025-Present
+  - Full tuition coverage for M.S. in Artificial Intelligence and Robotics program
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+### Professional Recognition
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- **Software Copyright Registration**, China National Copyright Administration, 2025
+  - Xiaoyongshuang Zhicheng Interconnected Online Platform V1.0
+  - Registration No.: 2025SR0012419
 
+### Academic Service Recognition
+
+- **Reviewer**, Multiple SCI Journals and CCF Conferences, 2024-Present
+  - npj Digital Medicine (IF: 15.1)
+  - Artificial Intelligence Review
+  - IEEE IJCNN Conference
