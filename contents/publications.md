@@ -4,7 +4,7 @@
 
 - Y. Zhang, **C. Yuan**, L. Wang, Y. Chen, Y. Xing, and Y. Sun (2025). The Structure-Preserving Spectral Graph Neural Network for Dual Kinase Inhibitors and Synergy Scoring in Gastric Cancer. **npj Digital Medicine**.
 
-- X. Author, **C. Yuan*** (Co-first author), et al. (2025). MSTDP: A Multi-Scale Temporal Deep Learning Framework for Just-in-Time Software Defect Prediction with Cross-Attention Fusion. **Journal of King Saud University - Computer and Information Sciences** (Accepted).  
+- Liu, Z., **Yuan, C.**, Liu, H. et al. MSTDP: a multi-scale temporal deep learning framework for just-in-time software defect prediction with cross-attention fusion. **J. King Saud Univ. Comput**. Inf. Sci. (2026). https://doi.org/10.1007/s44443-025-00401-y.  
 
 - **C. Yuan**, Z. Liu, X. Li, X. Zhou, D. Wang, Y. Fan, X. Sun, and Z. Tian (2025). A Dynamic Weighted Ensemble Learning Framework for Cardiovascular Risk Prediction in Type 2 Diabetes: A Comparative Study with SHAP-Based Interpretability. **Scientific Reports**.
 
@@ -18,7 +18,7 @@
 
 - Y. Zhang, **C. Yuan**, L. Wang, Y. Chen, Y. Xing, and Y. Sun (2025). The Structure-Preserving Spectral Graph Neural Network for Dual Kinase Inhibitors and Synergy Scoring in Gastric Cancer. **npj Digital Medicine**.
 
-- X. Author, **C. Yuan*** (Co-first author), et al. (2025). MSTDP: A Multi-Scale Temporal Deep Learning Framework for Just-in-Time Software Defect Prediction with Cross-Attention Fusion. **Journal of King Saud University - Computer and Information Sciences** (Accepted).  
+- Liu, Z., **Yuan, C.**, Liu, H. et al. MSTDP: a multi-scale temporal deep learning framework for just-in-time software defect prediction with cross-attention fusion. **J. King Saud Univ. Comput**. Inf. Sci. (2026). https://doi.org/10.1007/s44443-025-00401-y.  
 
 - **C. Yuan**, Y. Cai, and Z. Zhang (2025). Application of SHAP-Based Explainable Machine Learning in Remaining Useful Life Prediction for Aircraft Engine Systems. **International Journal of Machine Learning and Cybernetics**.
 
