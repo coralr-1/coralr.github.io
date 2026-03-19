@@ -12,7 +12,11 @@
 
 
 
-### First/Co-first Author Publications/Advisor as First Author
+### First/Co-first Author Publications/Advisor as First Author/Corresponding Author*
+
+#### 2026
+- Zhang, Y., Yang, C. & **Yuan, C***. Explainable Machine Learning for Industrial Sustainability Forecasting Using SHAP Analysis in Economic Policy Decision Support. Comput Econ (2026). https://doi.org/10.1007/s10614-026-11341-8
+
 
 #### 2025
 
