@@ -7,10 +7,14 @@ M.S. student in Artificial Intelligence and Robotics at ITMO University, St. Pet
 
 Email: Y2399549081@outlook.com | 521031@niuitmo.ru
 
+#### Research Experience
+Research Assistant, THU SenseLabRobo, Tsinghua University (Remote Collaboration), 2026 – Present.\
+
 #### Education
 M.S., Artificial Intelligence and Robotics, ITMO University, 2025—Present.\
 Master's Preparatory Program, Kazan (Volga Region) Federal University, 2024—2025.\
 B.S., Artificial Intelligence, Ningbo University, College of Science and Technology, 2020—2024.
+
 
 #### Entrepreneurship
 Founder & CEO, Sichuan Yongshuang Academic Network Technology Co., Ltd., 2025—Present.
