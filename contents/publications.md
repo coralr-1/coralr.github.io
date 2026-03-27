@@ -2,6 +2,12 @@
 
 ### Representative Publications
 
+#### 2026
+- Tian, Z., Lin, Z., **Yuan, C.**, Prajapat, S., Yang, J., & Yee, L. (2026). Consumer-Electronics-Oriented Safe Interaction-Aware Motion Planning for Ramp Driving with Perception Uncertainty Quantification. IEEE Transactions on Consumer Electronics.
+
+
+#### 2025
+
 - Y. Zhang, **C. Yuan**, L. Wang, Y. Chen, Y. Xing, and Y. Sun (2025). The Structure-Preserving Spectral Graph Neural Network for Dual Kinase Inhibitors and Synergy Scoring in Gastric Cancer. **npj Digital Medicine**.
 
 - Liu, Z., **Yuan, C.**, Liu, H. et al. MSTDP: a multi-scale temporal deep learning framework for just-in-time software defect prediction with cross-attention fusion. **J. King Saud Univ. Comput**. Inf. Sci. (2026). https://doi.org/10.1007/s44443-025-00401-y.  
