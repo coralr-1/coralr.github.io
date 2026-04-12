@@ -21,6 +21,7 @@
 ### First/Co-first Author Publications/Advisor as First Author/Corresponding Author*
 
 #### 2026
+- **Yuan, C**., Wei, T., Li, C., Yi, X., Liu, S., Zhang, Z., ... & Du, X. (2026). PaperOrchestrator: An LLM-Orchestrated multi-agent pipeline for automated end-to-end scientific paper writing. Journal of King Saud University Computer and Information Sciences.
 - Lou, J., Shavetov, S., Wen, X., Li, Z., Zhang, X., & **Yuan, C***. (2026). Deep Learning-Based Instance Segmentation: A Comprehensive Review of Algorithms, Challenges, and Future Directions. The Visual Computer, 42(6), 235.
 - Zhang, Y., Yang, C. & **Yuan, C***. Explainable Machine Learning for Industrial Sustainability Forecasting Using SHAP Analysis in Economic Policy Decision Support. Comput Econ (2026). https://doi.org/10.1007/s10614-026-11341-8
 
